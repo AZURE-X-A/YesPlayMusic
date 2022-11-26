@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://localhost:3000/"
+      "destination": "https://netease-cloud-music-api-bice-eight.vercel.app/"
     }
   ]
 }
